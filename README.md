@@ -40,7 +40,7 @@ moved laterally across the environment, compromised the domain controller, and s
 | File | ProjectFinancialSummary_Q3.pdf.hta |
 | File | review.dat (DLL) |
 | IP:Port | 165.232.170.151:80 |
-| URL | http://ff.sillytechninja.io/ransomboogey.exe |
+| URL | hxxp[://]ff[.]sillytechninja[.]io/ransomboogey[.]exe |
 | Hash (NTLM) | F84769D250EB95EB2D7D8B4A1C5613F2 (itadmin) |
 | Hash (NTLM) | 00f80f2538dcb54e7adc715c0e7091ec (administrator) |
 | Scheduled Task | Review |
